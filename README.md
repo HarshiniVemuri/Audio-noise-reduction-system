@@ -19,7 +19,7 @@ audio_noise_reduction/
 
 ---
 
-## ⚡ Quick Start (5 minutes, no dataset needed)
+##  Quick Start 
 
 ### 1 — Install Python & dependencies
 
