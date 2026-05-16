@@ -62,8 +62,8 @@ EOF
 ```bash
 python train.py \
   --data_dir data/librispeech \
-  --epochs 30 \
-  --batch_size 16 \
+  --epochs 50 \
+  --batch_size 8 \
   --lr 0.001
 ```
 
